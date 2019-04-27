@@ -1,0 +1,1 @@
+Functions have been added corresponding to the questions in pdf.
